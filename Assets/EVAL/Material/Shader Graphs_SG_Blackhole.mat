@@ -53,5 +53,7 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _ScreenSpaceScale: 0.62
+    - _SpherePercentage: 0.114
     m_Colors: []
   m_BuildTextureStacks: []
